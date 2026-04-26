@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "reeed.aternos.me",
-    "port": :60025,
+    "port": 60025,
     "version": "",
     "try-creative": false
   },
